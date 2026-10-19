@@ -7,7 +7,7 @@ All notable changes to this model will be documented in this file.
   armature, collision geometries and a `home` keyframe.
 - Added `scene.xml` with a textured ground plane, skybox and haze.
 - Added OBJ meshes under `assets/`.
-- Added render previews (`ur10.png`, `ur10_scene.png`).
+- Added render preview (`ur10.png`).
 - Added BSD-3-Clause `LICENSE` and full `README.md`.
 
 ## [2022-09-07]

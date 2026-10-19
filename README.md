@@ -8,8 +8,7 @@ designed for robotics research, reinforcement learning, and control simulation.
 > Requires MuJoCo 2.3.3 or later.
 
 <p float="left">
-  <img src="ur10.png" width="400">
-  <img src="ur10_scene.png" width="400">
+  <img src="ur10.png" width="600">
 </p>
 
 ## Overview
@@ -25,7 +24,7 @@ description](https://github.com/ros-industrial/universal_robot/tree/kinetic-deve
 | `ur10.xml` | The robot model: bodies, joints, actuators, materials and a `home` keyframe. |
 | `scene.xml` | Includes `ur10.xml` and adds a textured ground plane, skybox and haze. |
 | `assets/` | OBJ meshes referenced by the model. |
-| `ur10.png`, `ur10_scene.png` | Render previews of the model. |
+| `ur10.png` | Render preview of the model. |
 | `CHANGELOG.md` | Full history of changes. |
 | `LICENSE` | BSD-3-Clause license. |
 
